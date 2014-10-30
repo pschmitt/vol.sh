@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# vol.sh - a control script for the pamixer
+# 2014 - by pschmitt
+# 2014 - redone by klassiker
+
 # Fallback value
 VOL_STEPS=5
 
