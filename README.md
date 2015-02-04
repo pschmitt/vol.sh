@@ -2,6 +2,11 @@
 
 Volument control and notification (PulseAudio and volnoti)
 
+## Dependencies
+
+- [pamixer](https://github.com/cdemoulins/pamixer)
+- [volnoti](https://github.com/davidbrazdil/volnoti)
+
 ## Usage
 
 ```bash
